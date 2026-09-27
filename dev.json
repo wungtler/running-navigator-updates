@@ -1,10 +1,10 @@
 {
-  "notes": "코스 입력·선택 화면 분리, 공용 지도와 고도·경사 그래프, 신호등 별도 회피 경로 탐색, 러닝 기록 개별 삭제, 앱 안내·변경 내역. 기존 0.2.0-dev 앱에서 설정 → 업데이트 확인으로 설치할 수 있습니다. 신호등 횟수는 추정이며 별도 회피 코스는 지역에 따라 생성되지 않을 수 있습니다.",
-  "sha256": "da8592e342602145ade44bd1ffcfa9688abfeedbc4c7f6630344491ce7b587cb",
   "schema": 1,
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.3.1-dev/running-navigator-0.3.1-dev.apk",
+  "notes": "추천 기준을 바꿔도 같은 코스로 고정되던 오류 수정, 추천 결과·동일 추천 이유 표시, 거리 버튼과 코스 찾기 간격 확대, 공원·물·도로 색상을 구분하는 Liberty 지도. 기존 앱 설정 → 업데이트 확인으로 설치할 수 있습니다. 목표 거리 범위 안 후보가 하나이면 같은 코스가 추천될 수 있으며 이유를 표시합니다.",
+  "version": "0.3.1-dev",
+  "bytes": 3096545,
+  "versionCode": 10,
   "channel": "dev",
-  "version": "0.3.0-dev",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.3.0-dev/running-navigator-0.3.0-dev.apk",
-  "versionCode": 9,
-  "bytes": 3096545
+  "sha256": "63ea3b3b1ba2ecc0c88dd70e94dd23627a2ff636d267a87e27063d7ca9986f49"
 }
