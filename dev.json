@@ -1,10 +1,10 @@
 {
-  "schema": 1,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.3.1-dev/running-navigator-0.3.1-dev.apk",
-  "notes": "추천 기준을 바꿔도 같은 코스로 고정되던 오류 수정, 추천 결과·동일 추천 이유 표시, 거리 버튼과 코스 찾기 간격 확대, 공원·물·도로 색상을 구분하는 Liberty 지도. 기존 앱 설정 → 업데이트 확인으로 설치할 수 있습니다. 목표 거리 범위 안 후보가 하나이면 같은 코스가 추천될 수 있으며 이유를 표시합니다.",
-  "version": "0.3.1-dev",
-  "bytes": 3096545,
-  "versionCode": 10,
+  "bytes": 3121184,
   "channel": "dev",
-  "sha256": "63ea3b3b1ba2ecc0c88dd70e94dd23627a2ff636d267a87e27063d7ca9986f49"
+  "notes": "러닝 기록 상세 지도·계획/실제 거리, 1km 구간과 잔여 구간, 일요일 시작 월 달력·주간/월간 통계, 메모·비슷한 거리 비교·계획 코스 재사용, 파일 백업/복원 추가. 기존 기록은 보존하며 최근 20회 제한을 제거했습니다. 이전 기록의 구간별 시간은 새로 생성하지 않습니다. 삼성 헬스·스마트워치 연결은 후속 개발 예정입니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
+  "sha256": "f9523ce0c7082c25cce5c86eeb4bd295a7ad3c1e01dc5e8c9ca45f83c632dfe2",
+  "schema": 1,
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.4.0-dev/running-navigator-0.4.0-dev.apk",
+  "versionCode": 11,
+  "version": "0.4.0-dev"
 }
