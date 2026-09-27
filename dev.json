@@ -1,0 +1,10 @@
+{
+  "versionCode": 7,
+  "notes": "현위치 탐색과 밝은 벡터 지도 개선, 신호등 적게 추천, 코스 방향 화살표, 양쪽 다리를 표현한 새 아이콘, 앱 내 업데이트. 첫 0.2.0-dev는 APK를 직접 설치해주세요. 신호등 횟수는 지도 데이터 기반 추정입니다. 갤럭시 Z 폴드 7 야외 GPS 재검증은 남아 있습니다.",
+  "sha256": "188be66d124ace57048a3ad2576342696e2eeff643748724d6527e7008ac6005",
+  "schema": 1,
+  "version": "0.2.0-dev",
+  "bytes": 3084191,
+  "channel": "dev",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.2.0-dev/running-navigator-0.2.0-dev.apk"
+}
