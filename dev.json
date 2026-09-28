@@ -1,10 +1,10 @@
 {
-  "bytes": 3449317,
-  "notes": "안드로이드 하단 안전 영역의 중복 반영을 보완했습니다. 하단 메뉴 실제 높이에 맞춰 스크롤 끝 여백을 확보하여 러닝 종료 버튼이 가려지지 않도록 했습니다. 글자 확대/화면 크기/키보드 변화에도 배치를 갱신합니다. 기존 기록·메모는 유지되며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "schema": 1,
-  "version": "0.5.2-dev",
-  "versionCode": 14,
-  "sha256": "69c085757ad0fdf9a6716fa6d6837512677c808cae5f99966be94354a5742dce",
+  "notes": "하단 메뉴 안전 여백과 종료 버튼 배치를 보완했습니다. 글자 확대/키보드 변화에도 실제 메뉴 높이에 맞춰 스크롤 공간을 확보합니다. 화면 종료 직후 늦은 요청이 종료된 작업 스레드를 호출하지 않도록 보호했으며, 이미 접수된 기록·메모 저장은 완료합니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
+  "versionCode": 15,
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.3-dev/running-navigator-0.5.3-dev.apk",
+  "sha256": "72e19836cf6ff0189badce6aab6cc0890b50d848d172f32d12d647067a9bb345",
   "channel": "dev",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.2-dev/running-navigator-0.5.2-dev.apk"
+  "bytes": 3449317,
+  "version": "0.5.3-dev",
+  "schema": 1
 }
