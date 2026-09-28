@@ -1,10 +1,10 @@
 {
-  "notes": "하단 메뉴 안전 여백과 종료 버튼 배치를 보완했습니다. 글자 확대/키보드 변화에도 실제 메뉴 높이에 맞춰 스크롤 공간을 확보합니다. 화면 종료 직후 늦은 요청이 종료된 작업 스레드를 호출하지 않도록 보호했으며, 이미 접수된 기록·메모 저장은 완료합니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "versionCode": 15,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.3-dev/running-navigator-0.5.3-dev.apk",
-  "sha256": "72e19836cf6ff0189badce6aab6cc0890b50d848d172f32d12d647067a9bb345",
-  "channel": "dev",
+  "schema": 1,
+  "notes": "빠른 거리 선택을 5km · 10km · 15km · 하프 · 풀로 정리했습니다. 기본 5km와 직접 3km 입력을 유지하며 하프는 21.0975km, 풀은 42.195km입니다. 하프 거리의 소수 자릿수와 0.5km 증감도 보완했습니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
   "bytes": 3449317,
-  "version": "0.5.3-dev",
-  "schema": 1
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.4-dev/running-navigator-0.5.4-dev.apk",
+  "channel": "dev",
+  "sha256": "1cb41e7ef6127c3382bcce84471e3a28a1a61ab2e559eef101e217114e68c395",
+  "version": "0.5.4-dev",
+  "versionCode": 16
 }
