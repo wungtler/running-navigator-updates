@@ -1,10 +1,10 @@
 {
-  "version": "0.5.0-dev",
-  "bytes": 3133542,
-  "versionCode": 12,
-  "notes": "러닝 안내 지도에 현재 위치·이동 방향·남은 코스 화살표와 기록 경로를 표시합니다. 현위치 따라가기·전체 코스·자동 재탐색 지도 반영을 추가했습니다. 차량 속도 거리 제외는 유지하며 신뢰할 수 있는 지도 위치와 러닝 거리 계산을 분리했습니다. GPS 수신 상태와 거리 제외 이유를 표시합니다. 기존 기록·메모를 유지하며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "sha256": "4fdaa15ed6c67669c8a3c25a7c2e101a7b2f6420b33b8f581d1ddf7a73713a01",
+  "versionCode": 13,
+  "notes": "목표 거리 최대값을 마라톤 풀코스 42.195km로 늘렸습니다. 풀코스 빠른 선택·소수 입력·장거리 경유점 탐색 범위와 기록 코스 재사용을 보완했습니다. 생성 코스는 입력 상한보다 길어도 실제 거리 그대로 표시합니다. 기존 기록·메모는 유지되며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
+  "version": "0.5.1-dev",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.1-dev/running-navigator-0.5.1-dev.apk",
   "channel": "dev",
+  "bytes": 3133542,
   "schema": 1,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.0-dev/running-navigator-0.5.0-dev.apk"
+  "sha256": "c0872e6052e1904e9a869b39424740a3db67619bdcb08f1589b0450ba76150b2"
 }
