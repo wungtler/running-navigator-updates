@@ -1,10 +1,10 @@
 {
+  "notes": "출발지·도착지에 주소/장소명 검색을 추가했습니다. 도착지 기본값은 출발지와 동일이고, 출발지를 바꾸면 함께 이동합니다. 도착지를 따로 지정하면 유지하며 출발지와 동일 버튼으로 다시 맞출 수 있습니다. 기기 주소 검색 결과를 선택한 뒤 지도에서 위치를 확인해주세요. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
+  "version": "0.5.5-dev",
   "schema": 1,
-  "notes": "빠른 거리 선택을 5km · 10km · 15km · 하프 · 풀로 정리했습니다. 기본 5km와 직접 3km 입력을 유지하며 하프는 21.0975km, 풀은 42.195km입니다. 하프 거리의 소수 자릿수와 0.5km 증감도 보완했습니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "bytes": 3449317,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.4-dev/running-navigator-0.5.4-dev.apk",
+  "sha256": "e39e84ac89cd0908520675e13931c3c21ea58e2fb3ad3dc0c8edc61123bcb82e",
+  "versionCode": 17,
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.5-dev/running-navigator-0.5.5-dev.apk",
   "channel": "dev",
-  "sha256": "1cb41e7ef6127c3382bcce84471e3a28a1a61ab2e559eef101e217114e68c395",
-  "version": "0.5.4-dev",
-  "versionCode": 16
+  "bytes": 3461667
 }
