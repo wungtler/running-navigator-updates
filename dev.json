@@ -1,10 +1,10 @@
 {
-  "versionCode": 13,
-  "notes": "목표 거리 최대값을 마라톤 풀코스 42.195km로 늘렸습니다. 풀코스 빠른 선택·소수 입력·장거리 경유점 탐색 범위와 기록 코스 재사용을 보완했습니다. 생성 코스는 입력 상한보다 길어도 실제 거리 그대로 표시합니다. 기존 기록·메모는 유지되며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "version": "0.5.1-dev",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.1-dev/running-navigator-0.5.1-dev.apk",
-  "channel": "dev",
-  "bytes": 3133542,
+  "bytes": 3449317,
+  "notes": "안드로이드 하단 안전 영역의 중복 반영을 보완했습니다. 하단 메뉴 실제 높이에 맞춰 스크롤 끝 여백을 확보하여 러닝 종료 버튼이 가려지지 않도록 했습니다. 글자 확대/화면 크기/키보드 변화에도 배치를 갱신합니다. 기존 기록·메모는 유지되며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
   "schema": 1,
-  "sha256": "c0872e6052e1904e9a869b39424740a3db67619bdcb08f1589b0450ba76150b2"
+  "version": "0.5.2-dev",
+  "versionCode": 14,
+  "sha256": "69c085757ad0fdf9a6716fa6d6837512677c808cae5f99966be94354a5742dce",
+  "channel": "dev",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.2-dev/running-navigator-0.5.2-dev.apk"
 }
