@@ -1,10 +1,10 @@
 {
-  "bytes": 3490403,
-  "version": "0.5.7-dev",
-  "notes": "같은 길 반복·회전·유턴을 거리·경사·신호등 기준과 함께 평가해 코스 추천을 보완합니다. 공원·하천 주변 등록 보행로 위의 경유점 후보도 탐색하고 조회 실패 시 기본 탐색을 계속합니다. 반복이 심한 후보만 있으면 거리 범위를 최대 ±10%까지 넓혀 비교하며 거리 오차와 반복·회전 추정을 표시합니다. 자동 재탐색에도 같은 추천 기준을 적용합니다. 기존 기록과 메모는 유지됩니다. 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다.",
-  "sha256": "c79feaa5c7bb3175794ac60afb9cac66d3967cc63a2ac43ca13ce703578a45f5",
-  "schema": 1,
-  "versionCode": 19,
+  "version": "0.5.8-dev",
+  "bytes": 3531363,
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.8-dev/running-navigator-0.5.8-dev.apk",
+  "notes": "등록된 산책로와 수변 연결 도로에서 순환·왕복 후보를 탐색하고 실제 산책로 겹침 비율을 비교합니다. 전체 왕복과 반환 구간을 더한 순환을 구분하고 반환점 음성 안내와 돌아오는 구간의 GPS 안내 진행을 보완했습니다. 서울숲 3km와 공지천 주변 풀코스 목표에서 복수 후보를 확인했습니다. 춘천 공식 마라톤 코스와 일치하지 않으며 공개 지도 서버 상태와 자료 누락에 따라 후보 수가 달라질 수 있습니다. 장거리 준비는 지도 서버 대기로 수분 걸릴 수 있습니다. 기존 기록과 메모는 유지되며 설정 → 앱 업데이트 → 업데이트 확인에서 설치할 수 있습니다.",
   "channel": "dev",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.7-dev/running-navigator-0.5.7-dev.apk"
+  "versionCode": 20,
+  "schema": 1,
+  "sha256": "e555471c30afc1114b60192e627b8e63203eedb0f05be104a3d04b28ca94338c"
 }
