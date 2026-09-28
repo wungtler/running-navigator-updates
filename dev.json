@@ -1,10 +1,10 @@
 {
-  "notes": "출발지·도착지에 주소/장소명 검색을 추가했습니다. 도착지 기본값은 출발지와 동일이고, 출발지를 바꾸면 함께 이동합니다. 도착지를 따로 지정하면 유지하며 출발지와 동일 버튼으로 다시 맞출 수 있습니다. 기기 주소 검색 결과를 선택한 뒤 지도에서 위치를 확인해주세요. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "version": "0.5.5-dev",
-  "schema": 1,
-  "sha256": "e39e84ac89cd0908520675e13931c3c21ea58e2fb3ad3dc0c8edc61123bcb82e",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.5-dev/running-navigator-0.5.5-dev.apk",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.6-dev/running-navigator-0.5.6-dev.apk",
   "channel": "dev",
-  "bytes": 3461667
+  "sha256": "899763072771269f48c08333fa9e8ea7695918e78a8ae3460a40a3a4f10a0106",
+  "version": "0.5.6-dev",
+  "notes": "설정 화면을 여섯 항목 버튼으로 정리하고 내용을 개별 팝업으로 표시합니다. 긴 변경 내역은 팝업 안에서 스크롤하고 닫기·뒤로가기로 목록에 돌아갑니다. 앱 업데이트와 기록 백업·복원을 각 팝업에서 사용할 수 있습니다. 기존 기록과 메모는 유지됩니다. 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다.",
+  "schema": 1,
+  "bytes": 3465827,
+  "versionCode": 18
 }
