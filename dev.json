@@ -1,10 +1,10 @@
 {
-  "bytes": 3121184,
+  "version": "0.5.0-dev",
+  "bytes": 3133542,
+  "versionCode": 12,
+  "notes": "러닝 안내 지도에 현재 위치·이동 방향·남은 코스 화살표와 기록 경로를 표시합니다. 현위치 따라가기·전체 코스·자동 재탐색 지도 반영을 추가했습니다. 차량 속도 거리 제외는 유지하며 신뢰할 수 있는 지도 위치와 러닝 거리 계산을 분리했습니다. GPS 수신 상태와 거리 제외 이유를 표시합니다. 기존 기록·메모를 유지하며 설정 → 업데이트 확인으로 설치할 수 있습니다.",
+  "sha256": "4fdaa15ed6c67669c8a3c25a7c2e101a7b2f6420b33b8f581d1ddf7a73713a01",
   "channel": "dev",
-  "notes": "러닝 기록 상세 지도·계획/실제 거리, 1km 구간과 잔여 구간, 일요일 시작 월 달력·주간/월간 통계, 메모·비슷한 거리 비교·계획 코스 재사용, 파일 백업/복원 추가. 기존 기록은 보존하며 최근 20회 제한을 제거했습니다. 이전 기록의 구간별 시간은 새로 생성하지 않습니다. 삼성 헬스·스마트워치 연결은 후속 개발 예정입니다. 설정 → 업데이트 확인으로 설치할 수 있습니다.",
-  "sha256": "f9523ce0c7082c25cce5c86eeb4bd295a7ad3c1e01dc5e8c9ca45f83c632dfe2",
   "schema": 1,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.4.0-dev/running-navigator-0.4.0-dev.apk",
-  "versionCode": 11,
-  "version": "0.4.0-dev"
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.0-dev/running-navigator-0.5.0-dev.apk"
 }
