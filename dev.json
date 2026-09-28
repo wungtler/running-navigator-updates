@@ -1,10 +1,10 @@
 {
-  "version": "0.5.8-dev",
-  "bytes": 3531363,
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.8-dev/running-navigator-0.5.8-dev.apk",
-  "notes": "등록된 산책로와 수변 연결 도로에서 순환·왕복 후보를 탐색하고 실제 산책로 겹침 비율을 비교합니다. 전체 왕복과 반환 구간을 더한 순환을 구분하고 반환점 음성 안내와 돌아오는 구간의 GPS 안내 진행을 보완했습니다. 서울숲 3km와 공지천 주변 풀코스 목표에서 복수 후보를 확인했습니다. 춘천 공식 마라톤 코스와 일치하지 않으며 공개 지도 서버 상태와 자료 누락에 따라 후보 수가 달라질 수 있습니다. 장거리 준비는 지도 서버 대기로 수분 걸릴 수 있습니다. 기존 기록과 메모는 유지되며 설정 → 앱 업데이트 → 업데이트 확인에서 설치할 수 있습니다.",
-  "channel": "dev",
-  "versionCode": 20,
+  "notes": "일반 산책로와 흙길·등산로·노면 정보가 부족한 숲길을 구분해 산길 우대 오류를 수정했습니다. 출발·도착 주변 도로 연결을 함께 탐색하고 직접 복귀·신호등 대안을 포함한 최종 코스의 회피 구간을 확인합니다. 다져진 자갈길과 포장 공원 길·포장 오르막 선호는 유지합니다. OSM 누락·지도 서버 장애에 따라 현장 산길을 완전히 배제하지는 못합니다. 기존 기록과 메모는 유지되며 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다.",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.9-dev/running-navigator-0.5.9-dev.apk",
+  "bytes": 3539555,
   "schema": 1,
-  "sha256": "e555471c30afc1114b60192e627b8e63203eedb0f05be104a3d04b28ca94338c"
+  "channel": "dev",
+  "version": "0.5.9-dev",
+  "sha256": "04de945967188933860c31b8316dd6f8e42519941f758b5f281e8296e1951391",
+  "versionCode": 21
 }
