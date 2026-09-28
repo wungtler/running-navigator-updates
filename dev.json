@@ -1,10 +1,10 @@
 {
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.6-dev/running-navigator-0.5.6-dev.apk",
-  "channel": "dev",
-  "sha256": "899763072771269f48c08333fa9e8ea7695918e78a8ae3460a40a3a4f10a0106",
-  "version": "0.5.6-dev",
-  "notes": "설정 화면을 여섯 항목 버튼으로 정리하고 내용을 개별 팝업으로 표시합니다. 긴 변경 내역은 팝업 안에서 스크롤하고 닫기·뒤로가기로 목록에 돌아갑니다. 앱 업데이트와 기록 백업·복원을 각 팝업에서 사용할 수 있습니다. 기존 기록과 메모는 유지됩니다. 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다.",
+  "bytes": 3490403,
+  "version": "0.5.7-dev",
+  "notes": "같은 길 반복·회전·유턴을 거리·경사·신호등 기준과 함께 평가해 코스 추천을 보완합니다. 공원·하천 주변 등록 보행로 위의 경유점 후보도 탐색하고 조회 실패 시 기본 탐색을 계속합니다. 반복이 심한 후보만 있으면 거리 범위를 최대 ±10%까지 넓혀 비교하며 거리 오차와 반복·회전 추정을 표시합니다. 자동 재탐색에도 같은 추천 기준을 적용합니다. 기존 기록과 메모는 유지됩니다. 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다.",
+  "sha256": "c79feaa5c7bb3175794ac60afb9cac66d3967cc63a2ac43ca13ce703578a45f5",
   "schema": 1,
-  "bytes": 3465827,
-  "versionCode": 18
+  "versionCode": 19,
+  "channel": "dev",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.5.7-dev/running-navigator-0.5.7-dev.apk"
 }
