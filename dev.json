@@ -1,10 +1,10 @@
 {
-  "bytes": 3584676,
+  "notes": "앱 이름을 런닝 내비게이션으로 변경했습니다. 실행기 레이블·화면 제목·설정 안내·기록 출처 이름을 통일하고 기존 GPS·코스 추천·음성 안내·기록/메모와 패키지 ID·개발 서명을 유지합니다. 음악·케이던스·메트로놈 기능은 이번 버전에 포함하지 않았으며 후속 기획만 정리했습니다. 러닝 종료 후 설정 → 앱 업데이트 → 업데이트 확인 → APK 받고 업데이트를 눌러 설치할 수 있습니다.",
   "schema": 1,
-  "version": "0.6.3-dev",
-  "sha256": "b9e69839534b7b62855d2f87863d209b82a9994bbf1faea35426625999dda0d6",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.6.3-dev/running-navigator-0.6.3-dev.apk",
-  "versionCode": 25,
+  "sha256": "497669646cf48545a9a2aae1668a7ac295ade17fed992c1fdf98d51decf00fff",
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.6.4-dev/running-navigator-0.6.4-dev.apk",
+  "versionCode": 26,
+  "version": "0.6.4-dev",
   "channel": "dev",
-  "notes": "GPS·융합·네트워크 위치의 차이와 작은 흔들림을 이동거리로 합산하던 문제를 수정했습니다. 러닝에서는 정상 GPS를 우선하고 신뢰 가능한 GPS 속도와 시간, 속도 정보가 없을 때의 좌표 필터로 거리를 계산합니다. 정지 중 잡음과 거절한 점프의 뒤늦은 누적, 공급원 전환·일시정지·단절 구간 연결을 막습니다. 기록 경로와 최종 거리·1km 구간 저장을 맞추고 기존 기록·메모와 개발 서명을 유지합니다. 이전 기록의 거리는 자동으로 재계산하지 않습니다. 설정 → 앱 업데이트 → 업데이트 확인으로 설치할 수 있습니다."
+  "bytes": 3584676
 }
