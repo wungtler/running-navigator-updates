@@ -1,10 +1,10 @@
 {
-  "notes": "앱 이름을 런닝 내비게이션으로 변경했습니다. 실행기 레이블·화면 제목·설정 안내·기록 출처 이름을 통일하고 기존 GPS·코스 추천·음성 안내·기록/메모와 패키지 ID·개발 서명을 유지합니다. 음악·케이던스·메트로놈 기능은 이번 버전에 포함하지 않았으며 후속 기획만 정리했습니다. 러닝 종료 후 설정 → 앱 업데이트 → 업데이트 확인 → APK 받고 업데이트를 눌러 설치할 수 있습니다.",
   "schema": 1,
-  "sha256": "497669646cf48545a9a2aae1668a7ac295ade17fed992c1fdf98d51decf00fff",
-  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.6.4-dev/running-navigator-0.6.4-dev.apk",
-  "versionCode": 26,
-  "version": "0.6.4-dev",
   "channel": "dev",
-  "bytes": 3584676
+  "apkUrl": "https://github.com/wungtler/running-navigator-updates/releases/download/v0.7.0-dev/running-navigator-0.7.0-dev.apk",
+  "versionCode": 27,
+  "notes": "기록 하나의 거리·운동 시간을 직접 입력하거나 기존 기록을 선택해 리겔 공식으로 목표 거리의 예상 완주 시간과 평균 페이스를 계산합니다. 가벼운 달리기/기록 측정용 달리기를 구분하며 참고용 예측임과 하프·풀의 장거리 훈련 오차를 안내합니다. 기존 러닝 페이스·GPS 기록·메모를 유지합니다. 러닝 종료 후 설정 → 앱 업데이트 → 업데이트 확인 → APK 받고 업데이트로 받을 수 있습니다.",
+  "sha256": "d957fe4d726f2a64d82a0827e4eb23bcee964f2e2d87d5253c98607cf4232c44",
+  "version": "0.7.0-dev",
+  "bytes": 3573987
 }
